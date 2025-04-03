@@ -22,9 +22,9 @@ In addition to quantum computing, I am interested in the intersection of **physi
 #### My vision of science
 I am a strong advocate for **open science**, and I actively contribute to making science more inclusive, transparent, and environmentally conscious. I am involved in initiatives to promote **equity, diversity, and inclusion**, as well as sustainability in science and technology.
 
-#### Contact
+
 #### Contact
 If you are interested in collaborating on projects or internships in **quantum computing, machine learning**, or **sustainability**, I would love to hear from you!
 
-omnia.mohamed _at_ example.com · omnia.mohamed _at_ [e.email](https://e.foundation/) · [omnia.raouf.01@gmail.com](mailto:omnia.raouf.01@gmail.com)
+omnia.mohamed _at_ example.com · omnia.mohamed _at_ [e.email](https://e.foundation/) · omnia.raouf.01 _at_ gmail.com
 
