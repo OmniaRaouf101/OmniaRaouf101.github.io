@@ -26,5 +26,5 @@ I am a strong advocate for **open science**, and I actively contribute to making
 #### Contact
 If you are interested in collaborating on projects or internships in **quantum computing, machine learning**, or **sustainability**, I would love to hear from you!
 
-omnia.mohamed _at_ example.com · omnia.mohamed _at_ e.email · omnia.raouf.01 _at_ gmail _dot_ com
+omnia.raouf.01 _at_ gmail _dot_ com
 
