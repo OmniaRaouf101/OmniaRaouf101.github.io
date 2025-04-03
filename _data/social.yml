@@ -43,7 +43,7 @@
 #     name: fa-envelope
 #     type: far
 - name: Email
-  link: omnia.raouf.01@gmail.com
+  link: mailto:omnia.raouf.01@gmail.com
   icon:
     source: fa
     name: fa-at
