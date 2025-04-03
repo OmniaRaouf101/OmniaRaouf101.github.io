@@ -13,18 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alex Hernandez-Garcia
-tagline: Machine learning and computational neuroscience
-email: alex.hernandez-garcia@mila.quebec
-twitter_username: alexhdezgcia
-github_username:  alexhernandezgarcia
+title: Omnia Mohamed
+tagline: Quantum Computing Enthusiast & Researcher
+email: omnia.raouf.01@gmail.com
+twitter_username: Omnia_Raouf_
+github_username:  OmniaRaouf101
 twitter:
-  - username: alexhdezgcia
-description: Alex Hernandez-Garcia is an incoming assistant professor at the Université de Montréal at [DIRO](https://diro.umontreal.ca) and [Mila](https://mila.quebec). He is interested in the fundamental aspects of learning, in both brains and machines, as well as in applications of machine learning for social good, like tackling climate change and health challenges.
-author: Alex Hernandez-Garcia
-url: https://alexhernandezgarcia.github.io
-logo: /assets/images/logo1.png
-favicon: assets/images/logo/earth-americas-solid.png
+  - username: Omnia_Raouf_
+description: Omnia Mohamed is a physics graduate with a strong interest in quantum computing, machine learning, and their applications in various fields. She is passionate about making quantum computing more accessible through research, education, and collaboration.
+author: Omnia Mohamed
+url: https://OmniaRaouf101.github.io
 
 # Reading Files
 include:
