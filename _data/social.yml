@@ -7,7 +7,7 @@
     name: fa-linkedin
     type: fab
 - name: Twitter
-  link: https://github.com/OmniaRaouf101
+  link: https://x.com/Omnia_Raouf_
   icon:
     source: fa
     name: fa-twitter
@@ -25,17 +25,17 @@
 #     name: ai-researchgate-square
 #     type: ai
 - name: GitHub
-  link: https://github.com/alexhernandezgarcia
+  link: https://github.com/OmniaRaouf101
   icon:
     source: fa
     name: fa-github
     type: fab
-- name: Stack Overflow
-  link: https://stackoverflow.com/users/6194082/alexhg
-  icon:
-    source: fa
-    name: fa-stack-overflow
-    type: fab
+#- name: Stack Overflow
+#  link: https://stackoverflow.com/users/6194082/alexhg
+#  icon:
+#    source: fa
+#    name: fa-stack-overflow
+#    type: fab
 # - name: Email
 #   link: mailto:alex.hernandez-garcia@mila.quebec
 #   icon:
@@ -43,7 +43,7 @@
 #     name: fa-envelope
 #     type: far
 - name: Email
-  link: mailto:alex.hernandez-garcia@mila.quebec
+  link: omnia.raouf.01@gmail.com
   icon:
     source: fa
     name: fa-at
