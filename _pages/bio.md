@@ -6,14 +6,17 @@ permalink: /bio
 
 ## Short version
 
-Alex Hernandez-Garcia is an assistant professor at the Université de Montréal and at Mila. His current focus is on machine learning research for scientific applications to tackle the climate crisis. Previously, his research has explored the intersection between learning in both brains and machines, which continues to be a source of inspiration.
+Omnia Mohamed is a quantum computing enthusiast and researcher with a strong interest in machine learning and sustainability. She is passionate about advancing quantum computing research and making it more accessible through education and collaboration.
 
 [(_Lire en français_)](bio-fr)
 
 ## Longer version
 
-Alex Hernandez-Garcia is an assistant professor at the Université de Montréal at the Département d'informatique et de recherche opérationnelle (DIRO) and at Mila, in Tiohtià:ke / Montréal. Previously, he was a postdoctoral researcher with Prof. Yoshua Bengio and Prof. David Rolnick. He defended his PhD thesis in 2020 at the University of Osnabrück, as a fellow of the Marie Sklodowska-Curie ITN NexGenVis, with the supervision of Prof. Peter König. He obtained his B.Sc and M.Sc. at the University Carlos III of Madrid and during his PhD he was a visiting researcher at the University of Cambridge with Dr. Tim Kietzmann and at the Spinoza Center for Neuroimaging with Dr. Serge Dumoulin.
+Omnia Mohamed is a graduate in physics with a focus on quantum computing, machine learning, and their applications in various fields. Her academic background has equipped her with a strong foundation in both theoretical and experimental physics, and she is particularly interested in how quantum computing intersects with machine learning.
 
-His current main research interest is in the applications of machine learning to accelerate scientific discoveries to tackle the climate crisis. He helped create ThisClimateDoesNotExist.com, a website to help us visualise the impacts of climate change in our own backyard. Currently, his focus is materials discovery and molecular modelling with machine learning. In particular, he studies and applies Generative Flow Networks (GFlowNets) for probabilistic modelling and active learning for exploration. Examples of applications are catalyst design to improve the energy efficiency of hydrogen storage and other energy-intensive industrial processes, or discovery of solid electrolytes to make better and safer batteries.
+Omnia has recently worked on exploring quantum computing applications in the financial sector, specifically in fraud management and risk analysis, as part of her internship at Trevasq. She is currently pursuing multiple opportunities to work on projects related to quantum algorithms, machine learning, and renewable energy systems.
 
-More broadly, besides developing potentially impactful machine learning applications, since his graduate years Alex has been interested in brain-inspired deep learning and computational neuroscience. Alex is also a strong proponent of open science and is active in initiatives about how making science more inclusive, equitable, open, reproducible, transparent and environmentally conscious. At Mila, he has been a Lab Representative and a member of the Equity, Diversity and Inclusion Committee and the Sustainability Committee.
+In addition to her work in quantum computing, Omnia is passionate about making quantum technologies more accessible to the broader community, particularly through educational initiatives. She is an active volunteer with various quantum computing initiatives, including helping to organize workshops and resources to promote diversity and inclusion in the field.
+
+Omnia is committed to advancing the potential of quantum technologies to address complex global challenges, particularly in sustainability and energy optimization. She is also dedicated to promoting open science practices and actively participates in projects aimed at improving the reproducibility and accessibility of research in quantum computing.
+
