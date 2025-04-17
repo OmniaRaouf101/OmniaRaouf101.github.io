@@ -6,9 +6,9 @@ show_news: false
 I use the [pronouns](https://pronoun.is/#Pronoun-Usage-and-Social-Impact) [_she/her_](http://pronoun.is/she).
 
 #### Brief academic bio
-I am a physics graduate with a strong interest in quantum computing, machine learning, and their applications in various fields. I'm passionate about making quantum computing more accessible through research, education, and collaboration. 
+I am a physics graduate with a strong interest in quantum computing, machine learning, software engineering, and their applications in various fields. I'm passionate about making quantum computing more accessible through research, education, and collaboration.
 
-Currently, I am a research intern at the **National Authority for Remote Sensing & Space Sciences (NARSS)**, where I explore space weather problems using machine learning and quantum computing. Additionally, I am interning at **Trevasq** as a Quantum Algorithms Intern, focusing on quantum computing applications in finance. I have recently completed my bachelor's degree and am eagerly awaiting my next academic adventure, hoping to start my quantum master's program this cohort.
+Currently, I am a research intern at the [**National Authority for Remote Sensing & Space Sciences (NARSS)**](https://www.narss.sci.eg/), where I explore space weather problems using machine learning and quantum computing. Additionally, I am interning at [**Trevasq**](https://www.trevasq.com/) as a Quantum Algorithms Intern, focusing on quantum computing applications in finance. I have recently completed my bachelor's degree and am eagerly awaiting my next academic adventure, hoping to start my quantum master's program this cohort.
 
 [_The bio page includes text that may be used for outreach._]({{ site.url }}/bio)
 
@@ -17,10 +17,10 @@ My current work involves investigating **quantum computing applications in space
 
 
 #### Broader research interests
-In addition to quantum computing, I am interested in the intersection of **physics, computer science, and sustainability**. I believe in the power of interdisciplinary research and aim to explore how quantum computing can address challenges in fields like renewable energy, agriculture, and water systems.
+In addition to quantum computing, I am interested in the intersection of **physics, computer science, and mathematics**. I believe in the power of interdisciplinary research and aim to explore how quantum computing can address challenges in various fields.
 
 #### My vision of science
-I am a strong advocate for **open science**, and I actively contribute to making science more inclusive, transparent, and environmentally conscious. I am involved in initiatives to promote **equity, diversity, and inclusion**, as well as sustainability in science and technology.
+I am a strong advocate for **open science**, and I actively contribute to making science more inclusive, transparent, and environmentally conscious. I am involved in initiatives to promote **equity, diversity, and inclusion** in science and technology.
 
 
 #### Contact
