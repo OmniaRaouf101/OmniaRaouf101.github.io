@@ -20,7 +20,7 @@ My current work involves investigating **quantum computing applications in space
 In addition to quantum computing, I am interested in the intersection of **physics, computer science, and mathematics**. I believe in the power of interdisciplinary research and aim to explore how quantum computing can address challenges in various fields.
 
 #### My vision of science
-I am a strong advocate for **open science**, and I actively contribute to making science more inclusive, transparent, and environmentally conscious. I am involved in initiatives to promote **equity, diversity, and inclusion** in science and technology.
+I am a strong advocate for **open science**, and I actively contribute to making science more inclusive, transparent, and environmentally conscious. I am involved in initiatives to promote **equity, diversity, and inclusion** in science and technology, including volunteering with [**Quantum Women**](https://www.quantum-women.com/), a global community that empowers and connects women in quantum science and technology.
 
 
 #### Contact
