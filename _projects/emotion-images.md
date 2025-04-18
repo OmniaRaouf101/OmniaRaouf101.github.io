@@ -1,7 +1,7 @@
 ---
 title: Deep Q Snake with PyTorch
 order: 30
-image: snake-dqn.png
+image: snake-dqn.PNG
 ---
 This project explores the application of **Deep Q-Learning** to classic game environments. Specifically, I implemented a **Deep Q-Network (DQN)** using PyTorch to train an AI agent capable of mastering the **Snake game**, a benchmark environment for reinforcement learning.
 
