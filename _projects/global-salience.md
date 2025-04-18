@@ -1,11 +1,10 @@
 ---
-title: Global salience of competing stimuli
+title: Protein Folding Simulations on a Quantum Computer
 order: 20
-image: competing-stimuli.png
+image: protein-folding.png
 ---
-This is a side project of my PhD, where we explore some aspects of human visual perception of competing stimuli. In particular, we investigate, through eye-tracking experiments and a computational model, what makes a visual stimulus more effective in attracting visual attention when presented next to a competing stimulus. We denote this the _global salience_ of a stimulus, in contrast to the local saliency of specific regions.
+This project explores the potential of **quantum computing** to address the complex problem of **protein folding**, a fundamental challenge in computational biology. Leveraging the capabilities of Qiskit’s protein folding module, we formulate the task as a **combinatorial optimization problem**, preserving critical **topological constraints** and **hydrophobic-polar (HP) interactions**.
 
-Although saliency is a well-studied aspect of visual perception and effective, it is not yet known whether the effectiveness of a visual stimulus in the competition for attention is a function of the local saliency or an independent characteristic. We conduct an eye-tracking experiment where participants freely observe pairs of images. Then, we train a predictive model that effectively learns which images are more likely to attract the first fixation and assigns a global salience score to each of them.
+We employ **tetrahedral lattice encoding schemes** to model realistic spatial configurations of proteins. Using **Variational Quantum Algorithms (VQAs)**, we experiment with different ansatz designs and classical optimizers to benchmark their effect on **energy minimization** and **convergence efficiency**.
 
-We analyze the global salience scores, as well as the role of familiarity with the visual stimuli and the influence of having to perform a task in the location of the first fixation when the participant is shown competing stimuli. 
-
+To ensure the scientific reliability of the approach, the quantum simulations are **validated against classical results** produced by **GROMACS**, a state-of-the-art molecular dynamics package. This hybrid quantum-classical setup provides valuable insights into the applicability of quantum resources to real-world biological systems and opens promising directions for future research in quantum bioinformatics.
