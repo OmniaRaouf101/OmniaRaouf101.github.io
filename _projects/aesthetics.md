@@ -1,10 +1,10 @@
 ---
-title: Aesthetics and affective assessment of videos through visual descriptors
+title: ASL alphabet learning application
 order: 10
-image: rule-of-thirds.png
+image: asl-app.png
 ---
-This is the project of my [bachelor thesis](https://e-archivo.uc3m.es/handle/10016/24434). We explored the suitability of audiovisual descriptors for predicting subjective aspects of multimedia content, such as the aesthetic value or the elicited emotion and attention.
+This project focused on building an interactive desktop application to help users learn the American Sign Language (ASL) alphabet through real-time gesture recognition.
 
-We labeled several data sets. First, we collected a set of more than 300 car commercials from YouTube and [labeled their aesthetic value](http://www.sciencedirect.com/science/article/pii/S0957417414004400) by using the metadata provided by viewers, such as the likes, dislikes, view count, etc. In other experiments we labeled the elicited [emotion and attention](https://dl.acm.org/citation.cfm?id=3109418) of short movies by measuring the electrodermal activity (skin conductance) of participants while watching the videos.
+The application was developed for Windows using **Qt in C++**, with a focus on creating a smooth and user-friendly interface. **OpenCV** was integrated to capture and process live video input, enabling the detection and interpretation of hand gestures. To boost recognition accuracy, **TensorFlow models** were incorporated via Python, allowing the system to classify ASL signs with high precision.
 
-We extracted visual features based on previous literature and novel descriptors based on psychology and film making, such as features related to the rule of thirds, the temporal segmentation of the videos or the [visual salience](https://link.springer.com/article/10.1007/s11042-017-5339-9). Then, we trained machine learning algorithms such as SVM and logistic regression to successfully classify the aesthetic value of the videos or predict the levels of elicited emotion and attention.
+The project brings together computer vision, machine learning, and interface design to support accessible language learning through technology.
